@@ -1,0 +1,19 @@
+#container{
+    width: 90%;
+}
+#nav{
+    ul{
+        width: 80%;
+    }
+}
+#carousel{
+  min-height: 75vh;
+  .swiper{
+    width: 100%;
+    min-height: 100%;
+  }
+}
+.swiper-slide {
+  font-size: 18px;
+  display: flex!important;
+}
